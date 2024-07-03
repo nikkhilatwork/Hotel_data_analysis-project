@@ -12,6 +12,7 @@
     3) .isnull().sum() will check how many null values available in a data 
 
 
+# process of cleaning, transforming, & preparing data => 
 
 .info()  =>  displays the information of the data, like data types , class, columns & rows.
 
@@ -26,3 +27,7 @@
  sns.kdeplot()  => for visualizing the distribution of observations in a dataset or histogram.
 
  sns.countplot() => shows the count of observations in each categorical bin using bars.
+
+
+# 80% of the data analyst will doi'n the process of analyzing,removing,cleaning data and tranform data to standard format for further operation.  
+
