@@ -8,7 +8,9 @@
 
 #observe data =>
     1) .isnull() only check data in boolean format (T/F).
+    
     2) in dataset null values is like being blank or defined by NaN.
+    
     3) .isnull().sum() will check how many null values available in a data 
 
 
