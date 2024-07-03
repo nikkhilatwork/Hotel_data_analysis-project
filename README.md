@@ -13,16 +13,16 @@
 
 
 
-# .info()  =>  displays the information of the data, like data types , class, columns & rows.
+.info()  =>  displays the information of the data, like data types , class, columns & rows.
 
-# .unique() => is used to display the unique values of the datasets.
+ .unique() => is used to display the unique values of the datasets.
 
-# .nunique() =>   shows the size of the unique values of the data.
+ .nunique() =>   shows the size of the unique values of the data.
 
-# sns.jointplot( ' ',data )  => shown the relationship between particular rows.
+ sns.jointplot( ' ',data )  => shown the relationship between particular rows.
 
-# sns.pairplot() => for pairwise relationships between variables & data.
+ sns.pairplot() => for pairwise relationships between variables & data.
 
-# sns.kdeplot()  => for visualizing the distribution of observations in a dataset or histogram.
+ sns.kdeplot()  => for visualizing the distribution of observations in a dataset or histogram.
 
-# sns.countplot() => shows the count of observations in each categorical bin using bars.
+ sns.countplot() => shows the count of observations in each categorical bin using bars.
