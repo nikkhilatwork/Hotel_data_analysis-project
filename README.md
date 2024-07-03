@@ -1,18 +1,18 @@
 # Hotel_data_analysis-project
 
-# read data => 
+#read data => 
    1)   if we already have a csv file  pd.read_csv('file name').
       
    2)   and if we have a data from online  we need to fetch data like this   sns.load_dataset('url').
 
 
-# observe data =>
+#observe data =>
     1) .isnull() only check data in boolean format (T/F).
     2) in dataset null values is like being blank or defined by NaN.
     3) .isnull().sum() will check how many null values available in a data 
 
 
-# process of cleaning, transforming, & preparing data => 
+#process of cleaning, transforming, & preparing data => 
 
 .info()  =>  displays the information of the data, like data types , class, columns & rows.
 
@@ -29,5 +29,5 @@
  sns.countplot() => shows the count of observations in each categorical bin using bars.
 
 
-# 80% of the data analyst will doi'n the process of analyzing,removing,cleaning data and tranform data to standard format for further operation.  
+#80% of the data analyst will doi'n the process of analyzing,removing,cleaning data and tranform data to standard format for further operation.  
 
